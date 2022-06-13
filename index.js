@@ -25,6 +25,8 @@ const question_set = [
 		}
 ];
 
+
+
 var ans_state = [];
 
 
